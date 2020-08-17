@@ -30,8 +30,20 @@ Preprocessed code can be seen by going into properties of the project and going 
 
 <b>Math.i</b>
 
-## #define INTEGER int
+<h2>#define INTEGER int </h2>
 
 Here this #define statement basically searches for all INTEGER in the program and replaces it to int
 
 Note : We can use any name here it dosent matter it will replae it in the linked file
+
+<h2>#if INTEGER int </h2>
+
+#if 0
+Whatever code we write here the compiler will ignore that in the preprocessor and leave this as an empty
+#endif
+
+<b>Now we can move to the compiling after preprocessor</b>
+
+If we open the compiled object files then it will be all 0s and 1s so to open it in some readable form we should use assembly language in visual studio ouput property.
+
+There we can see the .asm file which is almost readable.
