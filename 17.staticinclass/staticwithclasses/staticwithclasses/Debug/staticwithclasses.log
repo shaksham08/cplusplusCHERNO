@@ -1,0 +1,5 @@
+﻿  Using triplet "x86-windows" from "C:\DEV\vcpkg\installed\x86-windows\"
+  staticwithclasses.cpp
+staticwithclasses.obj : error LNK2001: unresolved external symbol "public: static int Entity::x" (?x@Entity@@2HA)
+staticwithclasses.obj : error LNK2001: unresolved external symbol "public: static int Entity::y" (?y@Entity@@2HA)
+E:\github\cplusplusCHERNO\17.staticinclass\staticwithclasses\Debug\staticwithclasses.exe : fatal error LNK1120: 2 unresolved externals

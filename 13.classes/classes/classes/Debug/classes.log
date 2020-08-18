@@ -1,0 +1,6 @@
+﻿  Using triplet "x86-windows" from "C:\DEV\vcpkg\installed\x86-windows\"
+  Source.cpp
+E:\github\cplusplusCHERNO\13.classes\classes\classes\Source.cpp(10,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\github\cplusplusCHERNO\13.classes\classes\classes\Source.cpp(11,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\github\cplusplusCHERNO\13.classes\classes\classes\Source.cpp(22,12): warning C4101: 'playertwo': unreferenced local variable
+  classes.vcxproj -> E:\github\cplusplusCHERNO\13.classes\classes\Debug\classes.exe
