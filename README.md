@@ -25,4 +25,9 @@ For this I have used Visual Studio 2019 Community Edition.
 <a href="17.staticinclass" target="_blank">17.staticinclass</a></br></br>
 <a href="18.localstatic" target="_blank">18.localstatic</a></br></br>
 <a href="19.Enums" target="_blank">19.Enums</a></br></br>
-<a href="20.Constructor" target="_blank">20.Constructor</a></br></br>
+<a href="21.Destructor" target="_blank">21.Destructor</a></br></br>
+<a href="22.inheritance" target="_blank">22.inheritance</a></br></br>
+<a href="23.VirtualFunctions" target="_blank">23.VirtualFunctions</a></br></br>
+<a href="24.purevirtualfuntion" target="_blank">24.purevirtualfuntion</a></br></br>
+<a href="25.visibilityincpp" target="_blank">25.visibilityincpp</a></br></br>
+<a href="26.Arrays" target="_blank">26.Arrays</a></br></br>
