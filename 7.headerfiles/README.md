@@ -130,3 +130,15 @@ It just tells if _LOG_H_ is defined then it wont copy these , if its not defined
 This type of headerguards was alot used in past but now new preprocessor staement **#pragma once** comes.
 
 Here we can notice that there is no iostream.h but instead there is only iostream ,, this was done by the developers to differentiate between the c and c++ library.
+
+HEader files mainly include
+
+1. #define directives
+
+2. structure delcarations
+
+3. typedef statements
+
+4. function prototypes
+
+Note:- It dosent containt the implementaiton of that functions or the body.

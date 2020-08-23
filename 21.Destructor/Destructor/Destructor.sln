@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Destructor", "Destructor\Destructor.vcxproj", "{F13D7B43-0473-4696-8683-039DFFA02260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Debug|x64.ActiveCfg = Debug|x64
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Debug|x64.Build.0 = Debug|x64
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Debug|x86.ActiveCfg = Debug|Win32
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Debug|x86.Build.0 = Debug|Win32
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Release|x64.ActiveCfg = Release|x64
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Release|x64.Build.0 = Release|x64
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Release|x86.ActiveCfg = Release|Win32
+		{F13D7B43-0473-4696-8683-039DFFA02260}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8282935B-6DE2-4C5F-B9A6-39525C1802B0}
+	EndGlobalSection
+EndGlobal

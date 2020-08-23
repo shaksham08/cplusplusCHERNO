@@ -40,3 +40,7 @@ int main()
     std::cout << "Hello World!\n";
 }
 ```
+
+Lets see what a namespace is.It solves the problem of name conflict.
+
+Like there may be same name of functions so we can tell compiler using namespace.
