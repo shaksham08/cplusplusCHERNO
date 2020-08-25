@@ -1,0 +1,3 @@
+﻿  strings.cpp
+E:\github\cplusplusCHERNO\27.strings\strings\strings\strings.cpp(15,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+  strings.vcxproj -> E:\github\cplusplusCHERNO\27.strings\strings\Debug\strings.exe
