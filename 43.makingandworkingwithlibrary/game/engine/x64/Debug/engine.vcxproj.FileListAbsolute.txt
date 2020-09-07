@@ -1,0 +1,2 @@
+E:\github\cplusplusCHERNO\43.makingandworkingwithlibrary\game\x64\Debug\engine.pdb
+E:\github\cplusplusCHERNO\43.makingandworkingwithlibrary\game\engine\x64\Debug\engine.pdb
