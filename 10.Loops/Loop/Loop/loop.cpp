@@ -1,10 +1,10 @@
-#include<iostream>
+#include <iostream>
 
 int main()
 {
 	for (int i = 0; i < 5; i++)
 	{
-		std::cout << "HELLO WORLD" << std::endl;
+		std::cout << "WELCOME TO GIT HUB" << std::endl;
 	}
 	int i = 0;
 	while (i < 5)
