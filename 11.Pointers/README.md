@@ -77,3 +77,5 @@ Here we are using new keyword to allocate the memory which actually uses heap me
 So at end we need to delete this.
 
 using memset() we are storing something in the memory, i.e it takes the staring location , what to store and what is the memory size.
+
+Note - An array is always passed as an addresss in c++ or c
