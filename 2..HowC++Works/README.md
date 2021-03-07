@@ -12,7 +12,7 @@ int main()
 }
 ```
 
-THis is a preety basic program.
+This is a preety basic program.
 
 ```
 # - preprocessor statement : which is done before any proessing
@@ -108,4 +108,10 @@ How does it actually run the right file--
 
 Thats where the linker comes in , so when we click build then the each c++ code is compiled seperately and then linker find the defination of log function and wire up with it , but when the linker is not able to find the funtion then it gives the <b>Linker Error </b>, which is preety scary looking.
 
-This error mainly start with
+# Process
+
+1. SOurce code
+
+2. Object code ( compiled)
+
+3. Executable code (linked)

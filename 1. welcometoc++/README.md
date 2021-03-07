@@ -23,3 +23,21 @@
 ## 6. We need a text editor to write a c++ code -> compiler -> executable binay. So we need a compiler to the minimum point.(So for this we can use microsoft visual studio IDE which comes with all plugins-- make sure to install desktopdevelopment with c++ while installing visual studio)
 
 ## 7. BUILD -> will directly convert tobinary and produce the exe file which can be run directly.
+
+# C++ Introduction
+
+## 1. Low level Programming
+
+## 2. Speed of execution
+
+## 3. Derived From c
+
+## 4. Richer library from C
+
+## 5. Supports OOPS
+
+## 6. Generic programming ( also suports error handling)
+
+<br>
+
+# We generally use this where we have less memory or less power
