@@ -1,4 +1,3 @@
-
 <h1>This is the complete repository of advanced C++ During my learning Phase🔥🔥🔥🔥🚀🚀🚀</h1>
 
 During my current endavour with c++, i would like to say that people think its just a simple launguage to start with only but the thing is that you dont know that the browser in which you are seeing this README file is actually working on top of C++ 😉😉😉 Dats Really CooL NA!!!
@@ -7,8 +6,8 @@ During my current endavour with c++, i would like to say that people think its j
 
 For this I have used Visual Studio 2019 Community Edition.
 
-<a href="1. welcometoc++" target="_blank">1. welcometoc++</a></br></br>
-<a href="2..HowC++Works" target="_blank">2.HowC++Works</a></br></br>
+<a href="1.welcometoc++" target="_blank">1. welcometoc++</a></br></br>
+<a href="2.HowC++Works" target="_blank">2.HowC++Works</a></br></br>
 <a href="3.howcompilerworks" target="_blank">3.howcompilerworks</a></br></br>
 <a href="4.Howlinkerworks" target="_blank">4.Howlinkerworks</a></br></br>
 <a href="5.variables" target="_blank">5.variables</a></br></br>
@@ -51,4 +50,3 @@ For this I have used Visual Studio 2019 Community Edition.
 <a href="43.makingandworkingwithlibrary" target="_blank">43.makingandworkingwithlibrary</a></br></br>
 <a href="44.multiplereturnstatement" target="_blank">44.multiplereturnstatement</a></br></br>
 <a href="45.Templates" target="_blank">45.Templates</a></br></br>
-

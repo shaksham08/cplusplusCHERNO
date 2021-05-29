@@ -2,7 +2,7 @@
 
 Static in c++ means two meaning
 
-1. OUtside class/struct - linkage of the symbol is internal , its visible only throgh that transtaltional unit
+1. Outside class/struct - linkage of the symbol is internal , its visible only throgh that transtaltional unit
 2. Inside class or struct - visible to all instance of class, i.e there will be only one copy of that variable and same for the methods also.
 
 Consider two cpp files

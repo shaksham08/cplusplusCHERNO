@@ -81,3 +81,36 @@ int main()
 ```
 
 sizeof operator is used for printing the size of each data types.
+
+- An operator in C++ is evaluated at compiled time.
+
+- size of operator returns the size in bytes
+
+- this can be used with any variables and literals also
+
+# static_cast<variable type>
+
+- this is the new C++ way to convert any variable type.
+- Here it does the check in compile time only that if the value or the literal can be converted or not.
+
+# How input output works in c++
+
+![howitworks](howitworks.png)
+
+- Since the input and the output device can be very slow so taking input directly from this would be a problem.
+
+- so we make use of Buffer where we first store before output and after input device.
+
+![howstreamworks](howstreamworks.png)
+
+- Here istream and ostream are input from keybpard and ouput respectively.
+
+- The ifstream and ofstream are for files.
+
+- **cin** - The object of istream class
+- **cout** - The object of ostream class
+- **cerr & clog** - Object of ostreams under error and log streams.
+
+# Note: -
+
+- getline(cin ,varablename) = is used to get strings with spaces.
