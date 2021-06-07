@@ -114,3 +114,53 @@ sizeof operator is used for printing the size of each data types.
 # Note: -
 
 - getline(cin ,varablename) = is used to get strings with spaces.
+
+# I/O manupulation
+
+```c++
+#include <iostream>
+
+int main(int argc, char const *argv[])
+{
+    bool a = true;
+    std::cout << a << std::endl; // 1
+    std::cout << std::boolalpha;
+    std::cout << a << std::endl; // true
+    std::cout << std::noboolalpha;
+    return 0;
+}
+```
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char const *argv[])
+{
+    int a = 26, b = 20;
+    cout << a << " " << b << endl; // 26 20
+    cout << std::hex;
+    cout << a << " " << b << endl; // 1a 14
+    cout << std::oct;
+    cout << a << " " << b << endl; // 32 34
+    cout << std::dec;
+    cout << a << " " << b << endl; // 26 20
+    return 0;
+}
+```
+
+## Some other i/o manupulations are as :
+
+1. setw(n) - " 12" (takes 5 space is less than 5 also, if more then it will take all space whaterver it has)
+
+2. setfill(n) = "\*\*\*123" (Same as setw but just adds some character in place of space)
+
+3. std::left
+
+4. std::right
+
+# Foating Point (Default Printing Format)
+
+- No trailing Zero
+- Default Precision value is zero
